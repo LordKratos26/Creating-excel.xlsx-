@@ -1,0 +1,9 @@
+c:\users\help\documents\visual studio 2015\Projects\CreateExcel\CreateExcel\bin\Debug\CreateExcel.exe.config
+c:\users\help\documents\visual studio 2015\Projects\CreateExcel\CreateExcel\bin\Debug\CreateExcel.exe
+c:\users\help\documents\visual studio 2015\Projects\CreateExcel\CreateExcel\bin\Debug\CreateExcel.pdb
+c:\users\help\documents\visual studio 2015\Projects\CreateExcel\CreateExcel\obj\Debug\CreateExcel.csprojResolveAssemblyReference.cache
+c:\users\help\documents\visual studio 2015\Projects\CreateExcel\CreateExcel\obj\Debug\CreateExcel.Form1.resources
+c:\users\help\documents\visual studio 2015\Projects\CreateExcel\CreateExcel\obj\Debug\CreateExcel.Properties.Resources.resources
+c:\users\help\documents\visual studio 2015\Projects\CreateExcel\CreateExcel\obj\Debug\CreateExcel.csproj.GenerateResource.Cache
+c:\users\help\documents\visual studio 2015\Projects\CreateExcel\CreateExcel\obj\Debug\CreateExcel.exe
+c:\users\help\documents\visual studio 2015\Projects\CreateExcel\CreateExcel\obj\Debug\CreateExcel.pdb
